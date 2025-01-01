@@ -1,0 +1,8 @@
+file_format: "1"
+id: kyria_nice_view
+name: kyria_nice_view
+type: shield
+url: https://nicekeyboards.com/nice-view
+requires: [nice_view_header]
+features:
+  - display
